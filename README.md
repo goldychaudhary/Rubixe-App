@@ -1,6 +1,39 @@
-# Getting Started with Create React App
+# Creating Home page for Rubixe with react app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Dependencies
+
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icon": "^1.0.0",
+    "react-icons": "^4.7.1",
+    "react-scripts": "5.0.1",
+    "sqlite": "^4.1.2",
+    "sqlite3": "^5.1.4",
+    "web-vitals": "^2.1.4"
+
+### Technologies used
+
+1. React.js
+2. Node.js
+3. Sqlite Database
+4. CSS 
+5. Bootstrap
+
+### Functionality
+
+This app takes user details from a form on home page and saving details in the database.
+
+This is a responsive web app by applying CSS flexbox concepts
+
+This App make use of react modules like react-icons, bootstrap responsive navbar, node fetch API's on backend.
+
+
+
 
 ## Available Scripts
 
@@ -39,33 +72,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Rubixe-App

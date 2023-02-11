@@ -1,0 +1,47 @@
+
+
+.footer-main-bg{
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    width: 100vw;
+    background-color: #F2F6F8;
+    color: gray;
+}
+.footer-content{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 200px 50px 200px;
+    font-size: 10px;
+    height: 100%;
+
+}
+
+.footer-about-container{
+    width: 300px;
+}
+.footer-menu{
+    list-style: none;
+    padding-left: 0px;
+}
+.footer-copyright{
+    background-color: black;
+    color: lightgray;
+    padding: 20px 10px 10px 200px;
+    margin-top: auto;
+    font-size: 12px;
+}
+.footer-heading{
+    font-size: 15px;
+}
+.social-media-btn{
+    background-color: transparent;
+    border: 1px solid gray;
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 3px;
+  
+}
+.react-icon{
+    color: blue;
+}

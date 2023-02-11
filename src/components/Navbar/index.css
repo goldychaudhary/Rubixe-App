@@ -1,0 +1,47 @@
+
+
+
+.logo-pic{
+    height: 70px;
+    width: 220px;
+   
+}
+
+.custom-nav{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px 10px 20px;
+}
+.nav-link{
+    color: white;
+    font-size: 12px;
+}
+.navbar-toggler{
+    background-color: white;
+    text-decoration: none;
+
+}
+
+.nav-link:hover {
+    background-color: transparent !important;
+    color: inherit !important;
+    text-decoration: none !important;
+}
+
+.custom-nav-link{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: auto;
+    width: 60%;
+
+}
+@media screen and (max-width: 992px) {
+    .custom-nav-link{
+        display: block;
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+}
